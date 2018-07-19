@@ -8,6 +8,9 @@ Nuestro segundo paso sera generar ejemplos de trabajo con esas imagenes.
 Durante el 2017 concurrimos con Miguel Buero a la AgBot en Indianapolis. Allí vimos por primera vez la deteccion de malezas por imagen y sus aplicaciones en robotica y automatizaciones. Posteriormente fuimos a la hackthlon que realizo el ministerio de innovacion en Rosario y pudimos ver el trabajo de la gente de DeepAgro que iba en el mismo sentido. Parte de la idea comenzo cuando charlando con ellos nos comentaron que uno de los problemas que tuvieron fue el faltante de imagenes para alimantar los proceso de análisis.
 
 ## Miembros.
+Manuel Fossati.
+Juan Riva.
+Miguel Buero.
 
 ## Agradecimientos.
 Les queremos agrader a las personas que nos prestaron su tiempo y herramientas para trabajar. Martin Varela, Pablo Riva, María Riva, Miguel Buero, Juan Pablo Fossati
