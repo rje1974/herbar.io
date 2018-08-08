@@ -1,13 +1,15 @@
-# herbar.io
+# herbar.io  
+
 ## Concepto General.
-Este es un proyecto que arranca de forma confusa; pero con una certeza. Sabemos que hacen falta materiales visuales para que gente con los conocimientos necesarios, pueda desarrollar herramientas o procesos para el sector agropecuario implementando IA o MC. Creemos que podemos aportar conjuntos de datos para que esas personas tengan un material inicial para comenzar su trabajo. No sabemos mucho mas pero vamos a arrancar.
+Este es un proyecto que arranca con la certeza de la falta de materiales visuales (imágenes) libres (GPL3) y organizados para que se puedan desarrollar herramientas o procesos que implementen inteligencia artificial o aprendizaje automático dentro el sector agropecuario y tiene como objetivo que "LA COSA" se mueva para adelante. Nosotros creemos que podemos inicialmente aportar los conjuntos de datos, para que finalmente esas personas tengan un material para comenzar su trabajo y el cual se mejorara con el tiempo.  
+
 ### Proyecto Dataset.
-Nuestro primer paso sera crear un set de imágenes de un rastrojos de soja, durante el mes de julio del año 2018, los cuales no ha tenido tratamiento de barbecho. Esta dentro de nuestros objetivos probar distintas tecnologías de captura de imágenes y quedarnos con la que nos resulte mas cómoda y sencilla, pues nuestro objetivo es lograr el primer conjunto de datos, el cual sera mejorado por gente mucho mas capaz en un futuro.
+Nuestro primer paso sera crear un set de imágenes de un rastrojos de soja durante el año 2018, en Trenque Lauquen y con alguna información contextual climática y agronómica. Esta dentro de nuestros objetivos probar distintas tecnologías de captura para las imágenes, pues no tenemos seguridad de que es lo necesario hoy y menos mañana y quedarnos con la que nos resulte mas cómoda y sencilla; pues nuestro objetivo es lograr el "PRIMER" conjunto de datos, despues se mejorara.
 ### Proyecto ejemplo de uso dataset.
-Nuestro segundo paso sera generar ejemplos de trabajo con esas imágenes.
+Nuestro segundo paso sera generar ejemplos de trabajo con esas imágenes para lo cual tenemos algunas ideas pero no están consolidadas.
 
 ## Antecedentes.
-Durante el 2017 concurrimos con Miguel Buero a la AgBot en Indianapolis. Allí vimos por primera vez la deteccion de malezas por imagen y sus aplicaciones en robótica y automatizaciones. Posteriormente fuimos a la hackthlon que realizo el ministerio de innovación en Rosario y pudimos ver el trabajo de la gente de DeepAgro que iba en el mismo sentido. Parte de la idea comenzo cuando charlando con ellos nos comentaron que uno de los problemas que tuvieron fue el faltante de imágenes para alimentar los proceso de análisis.
+Durante el 2017 concurrimos con Miguel Buero a la AgBot en Indianapolis. Allí vimos por primera vez la detección de malezas por imagen y sus aplicaciones en robótica y automatizaciones. Posteriormente fuimos a la hackthlon que realizo el ministerio de innovación en Rosario y pudimos ver el trabajo de la gente de DeepAgro que iba en el mismo sentido. Parte de la idea comenzó cuando charlando con ellos nos comentaron que uno de los problemas que tuvieron fue el faltante de imágenes para alimentar los proceso de análisis. Manuel se planteo tratar de reproducir aquí el material y una cosa llevó a la otra.
 
 ## Miembros.
 [Manuel Fossati](https://www.linkedin.com/in/manuel-fossati-03026561/)  
