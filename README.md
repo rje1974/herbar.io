@@ -1,7 +1,9 @@
 # herbar.io
-## Concepto.
+## Concepto General.
 Este es un proyecto que arranca de forma confusa; pero con una certeza. Sabemos que hacen falta materiales visuales para que gente con los conocimientos necesarios, pueda desarrollar herramientas o procesos para el sector agropecuario implementando IA o MC. Creemos que podemos aportar conjuntos de datos para que esas personas tengan un material inicial para comenzar su trabajo. No sabemos mucho mas pero vamos a arrancar.
+### Proyecto Dataset.
 Nuestro primer paso sera crear un set de imágenes de un rastrojos de soja, durante el mes de julio del año 2018, los cuales no ha tenido tratamiento de barbecho. Esta dentro de nuestros objetivos probar distintas tecnologías de captura de imágenes y quedarnos con la que nos resulte mas cómoda y sencilla, pues nuestro objetivo es lograr el primer conjunto de datos, el cual sera mejorado por gente mucho mas capaz en un futuro.
+### Proyecto ejemplo de uso dataset.
 Nuestro segundo paso sera generar ejemplos de trabajo con esas imágenes.
 
 ## Antecedentes.
@@ -12,4 +14,4 @@ Durante el 2017 concurrimos con Miguel Buero a la AgBot en Indianapolis. Allí v
 [Juan Eduardo Riva](https://www.linkedin.com/in/juan-eduardo-riva/)
 
 ## Agradecimientos.
-Les queremos agradecer a las personas que nos prestaron su tiempo y herramientas para trabajar. Martín Varela, Pablo Riva, María Riva y Miguel Buero..
+Les queremos agradecer a las personas que nos prestaron su tiempo y herramientas para trabajar. [Juan Eduardo SA](https://www.linkedin.com/company/juan-eduardo-sa/), Martín Varela, [Pablo Riva](https://www.linkedin.com/in/pablo-alfredo-riva/), [María Riva](https://www.linkedin.com/in/maria-riva-aa78245a/) y [Miguel Buero](https://www.linkedin.com/in/miguel-buero-35a8b6152/).
