@@ -8,7 +8,7 @@ Nuestro segundo paso sera generar ejemplos de trabajo con esas imágenes.
 Durante el 2017 concurrimos con Miguel Buero a la AgBot en Indianapolis. Allí vimos por primera vez la deteccion de malezas por imagen y sus aplicaciones en robótica y automatizaciones. Posteriormente fuimos a la hackthlon que realizo el ministerio de innovación en Rosario y pudimos ver el trabajo de la gente de DeepAgro que iba en el mismo sentido. Parte de la idea comenzo cuando charlando con ellos nos comentaron que uno de los problemas que tuvieron fue el faltante de imágenes para alimentar los proceso de análisis.
 
 ## Miembros.
-[Manuel Fossati](https://www.linkedin.com/in/manuel-fossati-03026561/)
+[Manuel Fossati](https://www.linkedin.com/in/manuel-fossati-03026561/)  
 [Juan Eduardo Riva](https://www.linkedin.com/in/juan-eduardo-riva/)
 
 ## Agradecimientos.
