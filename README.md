@@ -15,3 +15,7 @@ Durante el 2017 concurrimos con Miguel Buero a la AgBot en Indianapolis. Allí v
 
 ## Agradecimientos.
 Les queremos agradecer a las personas que nos prestaron su tiempo y herramientas para trabajar. [Juan Eduardo SA](https://www.linkedin.com/company/juan-eduardo-sa/), Martín Varela, [Pablo Riva](https://www.linkedin.com/in/pablo-alfredo-riva/), [María Riva](https://www.linkedin.com/in/maria-riva-aa78245a/) y [Miguel Buero](https://www.linkedin.com/in/miguel-buero-35a8b6152/).
+
+## Dudas y consultas.
+Cel. +5492392520561
+Correo. juaneduardoriva@gmail.com
