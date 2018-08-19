@@ -9,7 +9,7 @@ Nuestro primer paso sera crear un set de imágenes de un rastrojos de soja duran
 Nuestro segundo paso sera generar ejemplos de trabajo con esas imágenes para lo cual tenemos algunas ideas pero no están consolidadas.
 
 ## Antecedentes.
-Durante el 2017 concurrimos con Miguel Buero a la AgBot en Indianapolis. Allí vimos por primera vez la detección de malezas por imagen y sus aplicaciones en robótica y automatizaciones. Posteriormente fuimos a la hackthlon que realizo el ministerio de innovación en Rosario y pudimos ver el trabajo de la gente de DeepAgro que iba en el mismo sentido. Parte de la idea comenzó cuando charlando con ellos nos comentaron que uno de los problemas que tuvieron fue el faltante de imágenes para alimentar los proceso de análisis. Manuel se planteo tratar de reproducir aquí el material y una cosa llevó a la otra.
+Durante el 2017 concurrimos con Miguel Buero a la [AgBot](http://www.agbot.ag/) en Indianapolis. Allí vimos por primera vez la detección de malezas por imagen y sus aplicaciones en robótica y automatizaciones. Posteriormente fuimos a la [hackthlon](http://desafiospublicos.argentina.gob.ar/desafios/ver/HackatonAgro) que realizo el ministerio de innovación en Rosario y pudimos ver el trabajo de la gente de DeepAgro que iba en el mismo sentido. Parte de la idea comenzó cuando charlando con ellos nos comentaron que uno de los problemas que tuvieron fue el faltante de imágenes para alimentar los proceso de análisis. Manuel se planteo tratar de reproducir aquí el material y una cosa llevó a la otra.
 
 ## Miembros.
 [Manuel Fossati](https://www.linkedin.com/in/manuel-fossati-03026561/)  
