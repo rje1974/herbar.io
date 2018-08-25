@@ -8,6 +8,7 @@ Nuestro primer paso sera crear un set de imágenes de un rastrojos de soja duran
 
 ### Proyecto Dataset Videos.
 Nuestro segundo paso será crear un set de videos de rastrojos de soja durante el año 2018, en Trenque Lauquen y con alguna información contextual climática y agronómica. Los videos los pondremos en youtube.
+..
 
 ### Proyecto ejemplo de uso dataset.
 Nuestro tercer paso sera generar ejemplos de trabajo con esas imágenes para lo cual tenemos algunas ideas pero no están consolidadas.
