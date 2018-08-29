@@ -1,14 +1,13 @@
 # herbar.io  
 
 ## Concepto General.
-Este es un proyecto que arranca con la certeza de la falta de materiales visuales (imágenes) libres (GPL3) y organizados para que se puedan desarrollar herramientas o procesos que implementen inteligencia artificial o aprendizaje automático dentro el sector agropecuario y tiene como objetivo que "LA COSA" se mueva para adelante. Nosotros creemos que podemos inicialmente aportar los conjuntos de datos, para que finalmente esas personas tengan un material para comenzar su trabajo y el cual se mejorara con el tiempo.  
+Este es un proyecto que arranco con la certeza de la falta de materiales visuales (imágenes y video) libres (GPL3), disponibles de forma sencilla y organizados para ser utilizado en el desarrollo de herramientas o procesos, que implementen inteligencia artificial o aprendizaje automático dentro el sector agropecuario. Creemos que podemos aportar los conjuntos de datos, para que finalmente personas inteligentes tengan un material para comenzar a probar y trabajar.
 
 ### Proyecto Dataset Imágenes.
 Nuestro primer paso sera crear un set de imágenes de un rastrojos de soja durante el año 2018, en Trenque Lauquen y con alguna información contextual climática y agronómica. Esta dentro de nuestros objetivos probar distintas tecnologías de captura para las imágenes, pues no tenemos seguridad de que es lo necesario hoy y menos mañana y quedarnos con la que nos resulte mas cómoda y sencilla; pues nuestro objetivo es lograr el "PRIMER" conjunto de datos, despues se mejorara.
 
 ### Proyecto Dataset Videos.
 Nuestro segundo paso será crear un set de videos de rastrojos de soja durante el año 2018, en Trenque Lauquen y con alguna información contextual climática y agronómica. Los videos los pondremos en youtube.
-..
 
 ### Proyecto ejemplo de uso dataset.
 Nuestro tercer paso sera generar ejemplos de trabajo con esas imágenes para lo cual tenemos algunas ideas pero no están consolidadas.
