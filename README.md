@@ -1,5 +1,5 @@
 # herbar.io  
-[English](README_EN.md) [Portuges](LIESMICH.md)
+[English](README_EN.md) [Portugués](README_PT.md)
 
 ## Concepto General.
 Este es un proyecto que arranco con la certeza de la falta de materiales visuales (imágenes y video) libres (GPL3), disponibles de forma sencilla y organizados para ser utilizado en el desarrollo de herramientas o procesos, que implementen inteligencia artificial o aprendizaje automático dentro el sector agropecuario. Creemos que podemos aportar los conjuntos de datos, para que finalmente personas inteligentes tengan un material para comenzar a probar y trabajar.
