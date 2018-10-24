@@ -1,30 +1,29 @@
 # herbar.io  
 
-## Concepto General.
-Este es un proyecto que arranco con la certeza de la falta de materiales visuales (imágenes y video) libres (GPL3), disponibles de forma sencilla y organizados para ser utilizado en el desarrollo de herramientas o procesos, que implementen inteligencia artificial o aprendizaje automático dentro el sector agropecuario. Creemos que podemos aportar los conjuntos de datos, para que finalmente personas inteligentes tengan un material para comenzar a probar y trabajar.
+## General Concept.
+This is a project that started with the certainty of the lack of visual materials (images and video) for free (GPL3), available in a simple way and organized to be used in the development of tools or processes for the implementation in artificial intelligence or automatic learning within the agricultural sector. We believe that we can provide the data sets so finally, intelligent people will have the material to start working and testing.
 
-### Proyecto Dataset Imágenes.
-Nuestro primer paso sera crear un set de imágenes de un rastrojos de soja durante el año 2018, que como cultivo siguiente tienen soja, en [Estancia Gerla (Trenque Lauquen)](https://www.google.com/maps/@-35.8854958,-62.7080981,207m/data=!3m1!1e3) y con alguna información contextual climática y agronómica. Esta dentro de nuestros objetivos probar distintas tecnologías de captura para las imágenes, pues no tenemos seguridad de que es lo necesario hoy y menos mañana y quedarnos con la que nos resulte mas cómoda y sencilla; pues nuestro objetivo es lograr el "PRIMER" conjunto de datos, despues se mejorara.
+### Project Images Dataset.
+Our first step will be to create a set of images of a soybean stubble during 2018, which as a next crop will have soy again, in [Estancia Gerla (Trenque Lauquen)](https://www.google.com/maps/@-35.8854958,-62.7080981,207m/data=!3m1!1e3) and with some contextual climate and agronomic information. It is within our objectives to try different technologies of capture for the images. We are not sure about what quality is necessary today and less tomorrow, for sure we will do the one that is more comfortable and simple; since our objective is to achieve the "FIRST" data set, then it will be improved.
 
-### Proyecto Dataset Videos.
-Nuestro segundo paso será crear un set de videos de rastrojos de soja durante el año 2018, en Trenque Lauquen y con alguna información contextual climática y agronómica. Los videos los pondremos en youtube.
+### Project Videos Dataset.
 
 ### Proyecto ejemplo de uso dataset.
-Nuestro tercer paso sera generar ejemplos de trabajo con esas imágenes para lo cual tenemos algunas ideas pero no están consolidadas.
+Our second step will be to create a set of videos of soy stubbles during 2018, in Trenque Lauquen and with some contextual information on climate and agronomy. We will put the videos on youtube.
 
-## Estado.
-Actualmente (23/10/2018) tenemos realizadas tres tomas de datos. Claramente hemos ido mejorando y suponemos que la serie tres es como vamos a trabajar de aquí por delante.
+## Today.
+Currently (10/23/2018) we have made three data shots. Clearly we have been improving and we assume that series three is how we are going to work from here ahead.
 
-## Antecedentes.
-Durante el 2017 concurrimos con Miguel Buero a la [AgBot](http://www.agbot.ag/) en Indianapolis. Allí vimos por primera vez la detección de malezas por imagen y sus aplicaciones en robótica y automatizaciones. Posteriormente fuimos a la [hackthlon](http://desafiospublicos.argentina.gob.ar/desafios/ver/HackatonAgro) que realizo el ministerio de innovación en Rosario y pudimos ver el trabajo de la gente de DeepAgro que iba en el mismo sentido. Parte de la idea comenzó cuando charlando con ellos nos comentaron que uno de los problemas que tuvieron fue el faltante de imágenes para alimentar los proceso de análisis. Manuel se planteo tratar de reproducir aquí el material y una cosa llevó a la otra.
+## Background.
+During 2017 we concurred with Miguel Buero to the [AgBot](http://www.agbot.ag/) in Indianapolis. There we saw for the first time the detection of weeds by image and their applications in robotics and automation. Later we went to the [hackthlon](http://desafiospublicos.argentina.gob.ar/desafios/ver/HackatonAgro) made the innovation ministry in Rosario and we could see the work of the people of DeepAgro who went in the same direction. Part of the idea started when chatting with them told us that one of the problems they had was the lack of images to feed the analysis process. Manuel considered trying to reproduce the material here and one thing led to the other.
 
-## Miembros.
+## Members.
 [Manuel Fossati](https://www.linkedin.com/in/manuel-fossati-03026561/)  
 [Juan Eduardo Riva](https://www.linkedin.com/in/juan-eduardo-riva/)
 
-## Agradecimientos.
-Les queremos agradecer a las empresas y personas que nos prestaron su tiempo y herramientas para trabajar. [Juan Eduardo SA](https://www.linkedin.com/company/juan-eduardo-sa/), Martín Varela, [Pablo Riva](https://www.linkedin.com/in/pablo-alfredo-riva/), [María Riva](https://www.linkedin.com/in/maria-riva-aa78245a/) y [Miguel Buero](https://www.linkedin.com/in/miguel-buero-35a8b6152/).
+## Acknowledgment.
+We want to thank the companies and people who lent us their time and tools to work. [Juan Eduardo SA](https://www.linkedin.com/company/juan-eduardo-sa/), Martín Varela, [Pablo Riva](https://www.linkedin.com/in/pablo-alfredo-riva/), [María Riva](https://www.linkedin.com/in/maria-riva-aa78245a/) y [Miguel Buero](https://www.linkedin.com/in/miguel-buero-35a8b6152/).
 
-## Dudas y consultas.
+## Doubts and consultations.
 Cel. +5492392520561  
 Correo. [juaneduardoriva@gmail.com](juaneduarodirva@gmail.com)  
