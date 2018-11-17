@@ -1,2 +1,2 @@
 ### Observaciones
-La serie se tomó el 25 de agosto de 2018.
+La serie se tomó el 14 de noviembre de 2018.
